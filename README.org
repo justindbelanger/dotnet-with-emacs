@@ -1,0 +1,2 @@
+# What sorcery is this?
+It's a toolbelt for guerrilla .NET development, with Emacs taking centre stage as the code editor.

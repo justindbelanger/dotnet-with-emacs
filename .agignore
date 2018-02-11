@@ -1,0 +1,10 @@
+/Knowledge Base/
+/Tools/
+*.sln*
+*.png*
+*.exe*
+*.vsdx*
+*.xsd*
+*.xml*
+*.XML*
+*.bat*

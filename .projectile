@@ -1,0 +1,13 @@
+-/Build/
+-/Custom Deployment
+-/**/*.sln
+-/**/*.png
+-/**/*.exe
+-/**/*.vsdx
+-/**/*.docx
+-/**/*.ocx
+-/**/*.csv
+-/**/*.htm
+-/**/*.resx
+-/**/*.xml
+-/**/*.vspscc
